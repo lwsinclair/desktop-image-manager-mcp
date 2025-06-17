@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zhixiaoqiang-desktop-image-manager-mcp-badge.png)](https://mseep.ai/app/zhixiaoqiang-desktop-image-manager-mcp)
+
 # Desktop Image Manager MCP Server
 
 基于 Model Context Protocol (MCP) 开发的桌面图片管理服务器，提供图片文件统计、查看和压缩功能。
